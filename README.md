@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qwertyvr1
 - 👀 I’m interested in planes and vr
-- 🌱 I’m currently learning about planesv
+- 🌱 I’m currently learning about planes
 - 💞️ I’m looking to collaborate on somebody that loves planes and gorrila tag
 - 📫 How to reach me: via github only
 - 😄 Pronouns: he/him
